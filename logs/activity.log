@@ -1,0 +1,1114 @@
+2025-12-30 13:21:10,237 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:10,238 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:10,240 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:17,286 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:17,292 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:25,552 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:25,555 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:26,777 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:26,777 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:21:37,050 | CREATED | sensitive\new.txt
+2025-12-30 13:21:49,113 | DELETED | sensitive\new.txt
+2025-12-30 13:26:53,856 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:26:53,856 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:26:53,865 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:26:53,865 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:26:53,866 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:27:10,867 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\new folder
+2025-12-30 13:27:10,873 | CREATED | sensitive\new folder
+2025-12-30 13:27:11,865 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive
+2025-12-30 13:27:33,043 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\new folder\newfile.txt
+2025-12-30 13:27:33,043 | CREATED | sensitive\new folder\newfile.txt
+2025-12-30 13:27:38,377 | MODIFIED | sensitive\new folder
+ODIFIED -> .\sensitive\new folder
+2025-12-30 13:27:45,481 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:45,539 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:45,584 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:45,618 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:45,763 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:45,780 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:45,936 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:45,951 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,095 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,110 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,245 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,262 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,391 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,407 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,546 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,563 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,716 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,733 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,872 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:46,889 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,030 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,046 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,195 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,212 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,363 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,378 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,518 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,535 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,684 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,701 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,848 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,864 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:47,997 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,014 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,156 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,172 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,314 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,332 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,476 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,491 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,625 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,643 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,778 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,796 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,947 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:48,964 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,110 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,124 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,258 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,284 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,430 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,445 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,580 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,596 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,744 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,759 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,887 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:49,904 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,044 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,063 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,213 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,230 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,379 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,396 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,545 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,562 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,714 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,732 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,879 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:50,896 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,029 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,047 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,196 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,213 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,361 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,377 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,509 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,526 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,663 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,679 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,847 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,863 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:51,997 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,013 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,163 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,181 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,330 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,345 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,480 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,498 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,645 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,662 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,819 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,836 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,980 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:52,998 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,141 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,157 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,297 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,315 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,465 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,481 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,628 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,644 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,775 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,790 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,932 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:53,949 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,094 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,108 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,244 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,264 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,415 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,433 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,579 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,595 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,730 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,748 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,897 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:54,916 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,063 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,080 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,229 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,247 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,395 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,415 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,560 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,579 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,736 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,755 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,896 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:55,915 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,060 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,077 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,229 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,248 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,396 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,414 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,561 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,578 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,711 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,730 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,881 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:56,899 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,031 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,046 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,195 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,213 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,364 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,381 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,535 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,553 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,695 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,712 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,862 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:57,879 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,013 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,032 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,178 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,198 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,329 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,352 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,510 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,528 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,660 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,677 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,808 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,825 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,958 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:58,976 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,113 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,128 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,263 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,281 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,430 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,445 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,613 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,632 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,780 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,799 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,946 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:27:59,968 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,133 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,185 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,328 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,344 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,493 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,509 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,646 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,663 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,830 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,854 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:00,998 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,015 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,161 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,178 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,328 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,345 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,493 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,510 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,658 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,673 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,814 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,832 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:01,981 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,001 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,148 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,167 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,315 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,333 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,480 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,498 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,649 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,668 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,819 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,837 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:02,986 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,001 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,144 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,162 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,313 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,330 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,478 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,495 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,647 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,673 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,820 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,839 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:03,985 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,003 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,151 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,166 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,318 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,334 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,480 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,497 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,657 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,675 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,820 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,837 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:04,987 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:05,005 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:28:43,993 | DELETED | sensitive\new folder
+2025-12-30 13:29:15,022 | CREATED | sensitive\newfolder
+2025-12-30 13:29:15,022 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\newfolder
+2025-12-30 13:29:16,032 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive
+2025-12-30 13:29:45,595 | CREATED | sensitive\newfile
+le CREATED -> .\sensitive\newfile
+2025-12-30 13:29:46,258 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive
+2025-12-30 13:30:06,445 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive
+2025-12-30 13:30:16,003 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\newfolder
+2025-12-30 13:30:16,003 | MODIFIED | sensitive\newfolder
+2025-12-30 13:30:16,004 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\newfolder
+2025-12-30 13:30:16,004 | MODIFIED | sensitive\newfolder
+2025-12-30 13:30:16,011 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\newfolder
+2025-12-30 13:30:16,012 | MODIFIED | sensitive\newfolder
+2025-12-30 13:30:17,608 | MODIFIED | sensitive\newfolder
+2025-12-30 13:30:17,609 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\newfolder
+2025-12-30 13:30:38,614 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:38,676 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:38,702 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:38,726 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:38,872 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:38,890 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,048 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,069 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,208 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,226 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,371 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,389 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,530 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,548 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,693 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,711 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,855 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:39,872 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,020 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,039 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,178 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,197 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,343 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,362 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,509 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,525 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,676 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,692 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,833 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,849 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:40,994 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,012 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,162 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,180 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,327 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,345 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,499 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,516 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,661 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,679 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,826 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,843 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:41,993 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,010 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,161 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,178 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,327 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,344 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,515 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,537 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,689 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,705 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,854 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:42,873 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,023 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,043 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,180 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,197 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,338 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,355 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,508 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,525 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,669 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,690 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,836 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,853 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:43,989 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,007 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,154 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,174 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,322 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,341 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,487 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,505 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,657 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,675 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,829 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,848 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:44,980 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,006 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,146 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,164 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,309 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,326 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,480 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,499 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,645 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,664 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,810 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,827 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,971 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:45,998 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,166 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,192 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,346 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,365 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,510 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,528 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,676 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,693 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,838 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,854 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:46,991 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,007 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,157 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,174 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,322 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,340 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,486 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,508 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,660 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,676 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,817 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,833 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,972 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:47,993 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,138 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,167 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,305 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,324 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,465 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,481 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,622 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,641 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,791 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,808 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,952 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:48,969 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,122 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,139 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,271 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,288 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,436 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,452 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,586 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,602 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,737 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,754 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,902 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:49,918 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,052 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,068 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,203 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,220 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,354 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,372 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,516 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,534 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,672 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,688 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,838 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:50,856 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,004 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,027 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,168 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,186 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,317 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,334 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,464 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,484 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,631 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,650 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,799 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,832 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:51,979 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,004 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,164 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,184 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,323 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,341 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,484 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,504 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,638 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,654 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,801 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,830 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,977 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:52,996 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,139 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,157 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,306 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,322 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,470 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,487 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,623 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,641 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,788 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,807 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,956 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:53,975 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,123 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,140 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,288 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,309 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,454 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,472 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,603 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,620 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,752 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,768 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,898 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:54,915 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,053 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,075 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,215 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,232 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,370 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,386 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,519 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,535 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,667 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,686 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,815 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,833 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,973 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:55,989 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,120 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,140 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,289 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,306 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,456 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,473 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,623 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,641 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,781 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,799 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,939 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:56,957 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,103 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,120 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,257 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,277 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,426 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,438 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,571 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,589 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,738 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,754 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,905 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:57,921 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,102 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,142 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,299 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,315 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,455 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,473 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,613 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,631 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,772 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,791 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,939 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:58,958 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,140 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,162 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,307 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,324 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,475 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,492 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,638 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,663 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,802 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,818 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,969 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:30:59,987 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,211 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,280 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,359 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,380 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,519 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,536 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,676 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,693 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,838 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:00,858 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,008 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,058 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,192 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,214 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,355 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,371 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,525 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,525 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,547 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,692 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,708 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,708 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,856 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,856 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:01,875 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,022 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,023 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,043 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,043 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,190 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,191 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,210 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,211 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,355 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,355 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,378 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,379 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,527 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,545 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,681 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,681 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,704 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,704 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,790 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,791 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,843 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,861 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:02,861 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,006 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,025 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,172 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,173 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,191 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,342 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,342 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,359 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,507 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,508 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,524 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,525 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,671 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,672 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,687 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,821 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,838 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,838 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,994 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:03,994 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,021 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,159 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,178 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,323 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,342 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,488 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,488 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,506 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,507 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,655 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,656 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,674 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,675 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,820 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,838 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,989 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:04,989 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,007 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,007 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,155 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,155 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,173 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,174 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,323 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,323 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,343 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,343 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,489 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,508 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,508 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,654 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,672 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,811 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,830 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,972 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,991 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:05,991 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,137 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,160 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,306 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,327 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,470 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,490 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,491 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,639 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,659 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,806 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,807 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,823 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,824 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,979 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,979 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:06,997 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,139 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,159 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,311 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,328 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,328 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,473 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,473 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,493 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,493 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,638 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,659 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,808 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,808 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,828 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,828 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,973 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,973 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,995 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:07,995 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,141 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,141 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,160 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,160 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,303 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,304 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,328 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,328 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,473 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,473 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,492 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,492 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,637 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,637 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,657 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,657 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,806 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,806 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,824 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,824 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,973 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,973 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:08,992 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,139 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,160 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,160 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,307 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,322 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,469 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,469 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,488 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,489 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,630 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,631 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,649 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,651 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,793 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,794 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,814 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,958 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:09,977 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,118 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,136 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,137 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,276 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,295 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,296 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,433 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,433 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,450 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,450 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,583 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,584 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,603 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,603 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,746 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,764 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,906 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,924 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:10,925 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,073 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,094 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,094 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,243 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,261 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,408 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,425 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,577 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,577 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,596 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,596 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,739 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,757 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,757 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,897 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,898 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:11,915 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,056 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,056 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,073 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,209 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,210 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,228 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,228 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,357 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,376 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,520 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,521 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,536 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,536 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,672 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,690 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,690 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,833 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,833 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,869 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,870 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,886 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,925 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:12,925 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,047 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,073 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,092 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,241 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,258 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,409 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,428 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,573 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,593 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,726 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,741 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,881 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:13,904 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:14,046 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:14,065 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:14,199 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:31:14,222 | INFO | MODIFIED -> .\logs\activity.log
+2025-12-30 13:37:03,317 | DELETED | sensitive\new.txt
+2025-12-30 13:37:03,317 | WARNING | ALERT: Sensitive file DELETED -> .\sensitive\new.txt
+2025-12-30 13:37:13,366 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive
+2025-12-30 13:37:13,403 | DELETED | sensitive\newfolder
+2025-12-30 13:37:13,403 | WARNING | ALERT: Sensitive file DELETED -> .\sensitive\newfolder
+2025-12-30 13:37:42,008 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive
+2025-12-30 13:37:42,010 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\secretFile.txt
+2025-12-30 13:37:42,309 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive
+2025-12-30 13:37:55,859 | MODIFIED | sensitive\secretFile.txt
+2025-12-30 13:37:55,860 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\secretFile.txt
+2025-12-30 13:37:55,866 | MODIFIED | sensitive\secretFile.txt
+2025-12-30 13:37:55,866 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\secretFile.txt
+2025-12-30 13:37:55,867 | MODIFIED | sensitive\secretFile.txt
+IED -> .\sensitive\secretFile.txt
+2025-12-30 13:38:15,874 | INFO | CREATED -> .\normal\normal.txt
+2025-12-30 13:38:16,268 | INFO | MODIFIED -> .\normal
+2025-12-30 13:38:30,537 | INFO | MODIFIED -> .\normal\normal.txt
+2025-12-30 13:38:30,538 | INFO | MODIFIED -> .\normal\normal.txt
+2025-12-30 13:38:30,545 | INFO | MODIFIED -> .\normal\normal.txt
+2025-12-30 13:39:17,624 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello.txt
+2025-12-30 13:39:17,624 | CREATED | sensitive\hello.txt
+2025-12-30 13:39:18,172 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive
+2025-12-30 13:39:55,571 | MODIFIED | sensitive\hello.txt
+MODIFIED -> .\sensitive\hello.txt
+2025-12-30 13:39:55,572 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\hello.txt
+2025-12-30 13:39:55,572 | MODIFIED | sensitive\hello.txt
+2025-12-30 13:39:55,572 | WARNING | ALERT: Sensitive file MODIFIED -> .\sensitive\hello.txt
+2025-12-30 13:39:55,573 | MODIFIED | sensitive\hello.txt
+2025-12-30 13:41:29,261 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:29,268 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:29,269 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:29,499 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:29,502 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:31,468 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:31,469 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:31,469 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:33,299 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:41:33,300 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 13:42:34,645 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:42:34,647 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:42:34,647 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:42:34,663 | INFO | MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:42:34,664 | INFO | MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:42:39,645 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:42:39,653 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:42:39,671 | WARNING | INTEGRITY ALERT: File modified -> .\sensitive\secret.txt
+2025-12-30 13:42:39,672 | INFO | MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:42:56,975 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:42:56,977 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:42:56,979 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:42:56,994 | WARNING | INTEGRITY ALERT: File modified -> .\sensitive\secret.txt
+2025-12-30 13:42:56,995 | INFO | MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:45:28,010 | INFO | CREATED -> .\~WRD1779.tmp
+2025-12-30 13:45:28,041 | WARNING | INTEGRITY ALERT: File modified -> .\~WRD1779.tmp
+2025-12-30 13:45:28,042 | INFO | MODIFIED -> .\~WRD1779.tmp
+2025-12-30 13:45:28,109 | INFO | MODIFIED -> .\Secure File Transfer Monitoring.docx
+2025-12-30 13:45:28,110 | INFO | MODIFIED -> .\~WRL1807.tmp
+2025-12-30 13:45:28,111 | INFO | MODIFIED -> .\Secure File Transfer Monitoring.docx
+2025-12-30 13:45:28,115 | INFO | MODIFIED -> .\~WRL1807.tmp
+2025-12-30 13:49:30,631 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:49:30,639 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:49:30,653 | INFO | MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:49:30,654 | INFO | MODIFIED -> .\sensitive\secret.txt
+2025-12-30 13:49:31,912 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:49:31,913 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:49:31,914 | MODIFIED | sensitive\secret.txt
+2025-12-30 13:49:31,927 | WARNING | INTEGRITY ALERT: File modified -> .\sensitive\secret.txt | OLD HASH: bb4c98a243f99ec702ce29896215b855f162fc3e15a5e64c35d835b9a52348e5 | NEW HASH: 580a42394bb8002de7bbd7907785ce20bc7132e343f3cdf7183a19097449b1bd
+2025-12-30 13:49:31,928 | INFO | MODIFIED -> .\sensitive\secret.txt
+2025-12-30 14:19:54,375 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:19:54,378 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:19:54,584 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:19:54,586 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:20:02,483 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:20:02,485 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:21:09,364 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy.txt
+2025-12-30 14:21:09,364 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy.txt
+2025-12-30 14:21:09,387 | INFO | MODIFIED -> .\sensitive\hello copy.txt
+2025-12-30 14:21:09,387 | INFO | MODIFIED -> .\sensitive\hello copy.txt
+2025-12-30 14:21:09,389 | INFO | MODIFIED -> .\sensitive\hello copy.txt
+2025-12-30 14:21:10,045 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 2.txt
+2025-12-30 14:21:10,047 | INFO | MODIFIED -> .\sensitive\hello copy 2.txt
+2025-12-30 14:21:10,047 | INFO | MODIFIED -> .\sensitive\hello copy 2.txt
+2025-12-30 14:21:10,705 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 3.txt
+2025-12-30 14:21:10,707 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 3.txt
+2025-12-30 14:21:10,711 | INFO | MODIFIED -> .\sensitive\hello copy 3.txt
+2025-12-30 14:21:10,712 | INFO | MODIFIED -> .\sensitive\hello copy 3.txt
+2025-12-30 14:21:11,320 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 4.txt
+2025-12-30 14:21:11,321 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 4.txt
+2025-12-30 14:21:11,325 | INFO | MODIFIED -> .\sensitive\hello copy 4.txt
+2025-12-30 14:21:11,326 | INFO | MODIFIED -> .\sensitive\hello copy 4.txt
+2025-12-30 14:21:11,755 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 5.txt
+2025-12-30 14:21:11,760 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:21:11,760 | INFO | MODIFIED -> .\sensitive\hello copy 5.txt
+n last 60 seconds in .\sensitive
+2025-12-30 14:21:11,761 | INFO | MODIFIED -> .\sensitive\hello copy 5.txt
+2025-12-30 14:21:11,762 | INFO | MODIFIED -> .\sensitive\hello copy 5.txt
+2025-12-30 14:21:11,763 | INFO | MODIFIED -> .\sensitive\hello copy 5.txt
+2025-12-30 14:21:12,194 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 6.txt
+2025-12-30 14:21:12,195 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 6.txt
+2025-12-30 14:21:12,199 | INFO | MODIFIED -> .\sensitive\hello copy 6.txt
+2025-12-30 14:21:12,199 | INFO | MODIFIED -> .\sensitive\hello copy 6.txt
+2025-12-30 14:21:12,615 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 7.txt
+2025-12-30 14:21:12,616 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 7.txt
+2025-12-30 14:21:12,620 | INFO | MODIFIED -> .\sensitive\hello copy 7.txt
+2025-12-30 14:21:13,034 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 8.txt
+2025-12-30 14:21:13,036 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 8.txt
+2025-12-30 14:21:13,037 | INFO | MODIFIED -> .\sensitive\hello copy 8.txt
+2025-12-30 14:21:13,039 | INFO | MODIFIED -> .\sensitive\hello copy 8.txt
+2025-12-30 14:21:13,415 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 9.txt
+2025-12-30 14:21:13,416 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 9.txt
+2025-12-30 14:21:13,420 | INFO | MODIFIED -> .\sensitive\hello copy 9.txt
+2025-12-30 14:21:13,420 | INFO | MODIFIED -> .\sensitive\hello copy 9.txt
+2025-12-30 14:21:13,946 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 10.txt
+2025-12-30 14:21:13,951 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:21:13,951 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:21:13,954 | INFO | MODIFIED -> .\sensitive\hello copy 10.txt
+2025-12-30 14:21:13,958 | INFO | MODIFIED -> .\sensitive\hello copy 10.txt
+2025-12-30 14:21:14,369 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 11.txt
+2025-12-30 14:21:14,375 | INFO | MODIFIED -> .\sensitive\hello copy 11.txt
+2025-12-30 14:21:14,375 | INFO | MODIFIED -> .\sensitive\hello copy 11.txt
+2025-12-30 14:21:14,809 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 12.txt
+2025-12-30 14:21:14,809 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 12.txt
+2025-12-30 14:21:14,814 | INFO | MODIFIED -> .\sensitive\hello copy 12.txt
+2025-12-30 14:21:14,814 | INFO | MODIFIED -> .\sensitive\hello copy 12.txt
+2025-12-30 14:21:14,816 | INFO | MODIFIED -> .\sensitive\hello copy 12.txt
+2025-12-30 14:21:14,816 | INFO | MODIFIED -> .\sensitive\hello copy 12.txt
+2025-12-30 14:21:15,211 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 13.txt
+2025-12-30 14:21:15,211 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 13.txt
+2025-12-30 14:21:15,217 | INFO | MODIFIED -> .\sensitive\hello copy 13.txt
+2025-12-30 14:21:15,642 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 14.txt
+2025-12-30 14:21:15,644 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:21:15,645 | INFO | MODIFIED -> .\sensitive\hello copy 14.txt
+2025-12-30 14:21:15,646 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:21:15,647 | INFO | MODIFIED -> .\sensitive\hello copy 14.txt
+2025-12-30 14:21:16,060 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 15.txt
+2025-12-30 14:21:16,061 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 15.txt
+2025-12-30 14:21:16,065 | INFO | MODIFIED -> .\sensitive\hello copy 15.txt
+2025-12-30 14:21:16,066 | INFO | MODIFIED -> .\sensitive\hello copy 15.txt
+2025-12-30 14:21:16,493 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 16.txt
+2025-12-30 14:21:16,498 | INFO | MODIFIED -> .\sensitive\hello copy 16.txt
+2025-12-30 14:21:16,498 | INFO | MODIFIED -> .\sensitive\hello copy 16.txt
+2025-12-30 14:21:16,915 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 17.txt
+2025-12-30 14:21:16,916 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 17.txt
+2025-12-30 14:21:16,921 | INFO | MODIFIED -> .\sensitive\hello copy 17.txt
+2025-12-30 14:21:16,924 | INFO | MODIFIED -> .\sensitive\hello copy 17.txt
+2025-12-30 14:21:16,928 | INFO | MODIFIED -> .\sensitive\hello copy 17.txt
+2025-12-30 14:21:17,474 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 18.txt
+2025-12-30 14:21:17,475 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 18.txt
+2025-12-30 14:21:17,479 | INFO | MODIFIED -> .\sensitive\hello copy 18.txt
+2025-12-30 14:21:17,481 | INFO | MODIFIED -> .\sensitive\hello copy 18.txt
+2025-12-30 14:21:18,228 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 19.txt
+2025-12-30 14:21:18,233 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:21:18,234 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 19.txt
+2025-12-30 14:21:18,244 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:21:18,245 | INFO | MODIFIED -> .\sensitive\hello copy 19.txt
+2025-12-30 14:21:18,246 | INFO | MODIFIED -> .\sensitive\hello copy 19.txt
+2025-12-30 14:21:24,115 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 20.txt
+2025-12-30 14:21:24,117 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 20.txt
+2025-12-30 14:21:24,121 | INFO | MODIFIED -> .\sensitive\hello copy 20.txt
+2025-12-30 14:21:24,536 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 21.txt
+2025-12-30 14:21:24,541 | INFO | MODIFIED -> .\sensitive\hello copy 21.txt
+2025-12-30 14:21:24,541 | INFO | MODIFIED -> .\sensitive\hello copy 21.txt
+2025-12-30 14:21:24,543 | INFO | MODIFIED -> .\sensitive\hello copy 21.txt
+2025-12-30 14:21:25,021 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 22.txt
+2025-12-30 14:21:25,021 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 22.txt
+2025-12-30 14:21:25,025 | INFO | MODIFIED -> .\sensitive\hello copy 22.txt
+2025-12-30 14:21:25,443 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 23.txt
+2025-12-30 14:21:25,444 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 23.txt
+2025-12-30 14:21:25,448 | INFO | MODIFIED -> .\sensitive\hello copy 23.txt
+2025-12-30 14:21:25,450 | INFO | MODIFIED -> .\sensitive\hello copy 23.txt
+ last 60 seconds in .\sensitive
+2025-12-30 14:21:25,451 | INFO | MODIFIED -> .\sensitive\hello copy 23.txt
+2025-12-30 14:25:15,390 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:25:15,395 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:25:15,397 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 14:26:19,359 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 24.txt
+2025-12-30 14:26:19,360 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 24.txt
+2025-12-30 14:26:19,365 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 24.txt
+2025-12-30 14:26:19,371 | INFO | MODIFIED -> .\sensitive\hello copy 24.txt
+2025-12-30 14:26:19,373 | INFO | MODIFIED -> .\sensitive\hello copy 24.txt
+2025-12-30 14:26:19,748 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 25.txt
+2025-12-30 14:26:19,749 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 25.txt
+2025-12-30 14:26:19,750 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 25.txt
+2025-12-30 14:26:19,754 | INFO | MODIFIED -> .\sensitive\hello copy 25.txt
+2025-12-30 14:26:19,754 | INFO | MODIFIED -> .\sensitive\hello copy 25.txt
+2025-12-30 14:26:19,756 | INFO | MODIFIED -> .\sensitive\hello copy 25.txt
+2025-12-30 14:26:20,196 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 26.txt
+2025-12-30 14:26:20,196 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 26.txt
+2025-12-30 14:26:20,201 | INFO | MODIFIED -> .\sensitive\hello copy 26.txt
+2025-12-30 14:26:20,201 | INFO | MODIFIED -> .\sensitive\hello copy 26.txt
+2025-12-30 14:26:20,603 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 27.txt
+2025-12-30 14:26:20,603 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 27.txt
+2025-12-30 14:26:20,608 | INFO | MODIFIED -> .\sensitive\hello copy 27.txt
+2025-12-30 14:26:20,610 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:26:20,611 | INFO | MODIFIED -> .\sensitive\hello copy 27.txt
+2025-12-30 14:26:21,041 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:26:21,044 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 28.txt
+2025-12-30 14:26:21,046 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 28.txt
+2025-12-30 14:26:21,047 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:26:21,048 | INFO | MODIFIED -> .\sensitive\hello copy 28.txt
+2025-12-30 14:26:21,050 | INFO | MODIFIED -> .\sensitive\hello copy 28.txt
+2025-12-30 14:26:21,052 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 28.txt
+2025-12-30 14:26:21,414 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 29.txt
+2025-12-30 14:26:21,415 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 29.txt
+2025-12-30 14:26:21,416 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 29.txt
+2025-12-30 14:26:21,420 | INFO | MODIFIED -> .\sensitive\hello copy 29.txt
+2025-12-30 14:26:21,421 | INFO | MODIFIED -> .\sensitive\hello copy 29.txt
+2025-12-30 14:26:21,423 | INFO | MODIFIED -> .\sensitive\hello copy 29.txt
+2025-12-30 14:26:21,819 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 30.txt
+2025-12-30 14:26:21,819 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 30.txt
+2025-12-30 14:26:21,820 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 30.txt
+2025-12-30 14:26:21,825 | INFO | MODIFIED -> .\sensitive\hello copy 30.txt
+2025-12-30 14:26:21,826 | INFO | MODIFIED -> .\sensitive\hello copy 30.txt
+2025-12-30 14:26:21,827 | INFO | MODIFIED -> .\sensitive\hello copy 30.txt
+2025-12-30 14:26:22,243 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 31.txt
+2025-12-30 14:26:22,244 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 31.txt
+2025-12-30 14:26:22,245 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 31.txt
+2025-12-30 14:26:22,248 | INFO | MODIFIED -> .\sensitive\hello copy 31.txt
+2025-12-30 14:26:22,249 | INFO | MODIFIED -> .\sensitive\hello copy 31.txt
+2025-12-30 14:26:22,251 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:26:22,252 | INFO | MODIFIED -> .\sensitive\hello copy 31.txt
+2025-12-30 14:26:22,752 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 32.txt
+2025-12-30 14:26:22,772 | INFO | MODIFIED -> .\sensitive\hello copy 32.txt
+2025-12-30 14:26:22,800 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 32.txt
+2025-12-30 14:26:22,801 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 32.txt
+2025-12-30 14:26:22,807 | INFO | MODIFIED -> .\sensitive\hello copy 32.txt
+2025-12-30 14:26:23,124 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 33.txt
+2025-12-30 14:26:23,124 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 33.txt
+2025-12-30 14:26:23,130 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:26:23,131 | INFO | MODIFIED -> .\sensitive\hello copy 33.txt
+2025-12-30 14:26:23,131 | INFO | MODIFIED -> .\sensitive\hello copy 33.txt
+2025-12-30 14:26:23,133 | INFO | MODIFIED -> .\sensitive\hello copy 33.txt
+2025-12-30 14:26:23,566 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 34.txt
+2025-12-30 14:26:23,571 | INFO | MODIFIED -> .\sensitive\hello copy 34.txt
+2025-12-30 14:26:23,571 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 34.txt
+2025-12-30 14:26:23,576 | INFO | MODIFIED -> .\sensitive\hello copy 34.txt
+2025-12-30 14:26:23,579 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 34.txt
+2025-12-30 14:26:24,089 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 35.txt
+2025-12-30 14:26:24,089 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 35.txt
+2025-12-30 14:26:24,091 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 35.txt
+2025-12-30 14:26:24,094 | INFO | MODIFIED -> .\sensitive\hello copy 35.txt
+2025-12-30 14:26:24,095 | INFO | MODIFIED -> .\sensitive\hello copy 35.txt
+2025-12-30 14:26:24,502 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 36.txt
+2025-12-30 14:26:24,503 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 36.txt
+2025-12-30 14:26:24,504 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 36.txt
+2025-12-30 14:26:24,507 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:26:24,508 | INFO | MODIFIED -> .\sensitive\hello copy 36.txt
+2025-12-30 14:26:24,942 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 37.txt
+2025-12-30 14:26:24,942 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 37.txt
+2025-12-30 14:26:24,947 | INFO | MODIFIED -> .\sensitive\hello copy 37.txt
+2025-12-30 14:26:24,947 | INFO | MODIFIED -> .\sensitive\hello copy 37.txt
+2025-12-30 14:26:24,949 | INFO | MODIFIED -> .\sensitive\hello copy 37.txt
+2025-12-30 14:26:26,678 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 38.txt
+2025-12-30 14:26:26,679 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 38.txt
+2025-12-30 14:26:26,682 | INFO | MODIFIED -> .\sensitive\hello copy 38.txt
+2025-12-30 14:26:26,683 | WARNING | SUSPICIOUS MOVEMENT: 11 files changed in last 60 seconds in .\sensitive
+2025-12-30 14:26:26,684 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 38.txt
+2025-12-30 14:26:26,687 | INFO | MODIFIED -> .\sensitive\hello copy 38.txt
+2025-12-30 14:26:27,095 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 39.txt
+2025-12-30 14:26:27,095 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 39.txt
+2025-12-30 14:26:27,097 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 39.txt
+2025-12-30 14:26:27,100 | INFO | MODIFIED -> .\sensitive\hello copy 39.txt
+2025-12-30 14:26:27,102 | INFO | MODIFIED -> .\sensitive\hello copy 39.txt
+2025-12-30 14:26:27,541 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 40.txt
+2025-12-30 14:26:27,542 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 40.txt
+2025-12-30 14:26:27,547 | INFO | MODIFIED -> .\sensitive\hello copy 40.txt
+2025-12-30 14:26:27,547 | INFO | MODIFIED -> .\sensitive\hello copy 40.txt
+2025-12-30 14:26:27,548 | INFO | MODIFIED -> .\sensitive\hello copy 40.txt
+ last 60 seconds in .\sensitive
+2025-12-30 14:26:27,549 | INFO | MODIFIED -> .\sensitive\hello copy 40.txt
+2025-12-30 14:26:28,064 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 41.txt
+2025-12-30 14:26:28,064 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 41.txt
+2025-12-30 14:26:28,065 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 41.txt
+2025-12-30 14:26:28,070 | INFO | MODIFIED -> .\sensitive\hello copy 41.txt
+2025-12-30 14:26:28,071 | INFO | MODIFIED -> .\sensitive\hello copy 41.txt
+2025-12-30 14:26:28,524 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 42.txt
+2025-12-30 14:26:28,524 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 42.txt
+2025-12-30 14:26:28,525 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\hello copy 42.txt
+2025-12-30 14:26:28,528 | INFO | MODIFIED -> .\sensitive\hello copy 42.txt
+2025-12-30 14:26:28,529 | INFO | MODIFIED -> .\sensitive\hello copy 42.txt
+2025-12-30 14:26:28,530 | INFO | MODIFIED -> .\sensitive\hello copy 42.txt
+2025-12-30 16:27:52,337 | INFO | MODIFIED -> .\sensitive\hello copy 42.txt
+2025-12-30 16:27:52,339 | INFO | MODIFIED -> .\sensitive\hello copy 42.txt
+2025-12-30 16:27:56,525 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:27:56,526 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:27:56,527 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:27:56,528 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:27:56,529 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:28:01,345 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:28:01,345 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:28:01,347 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:28:01,348 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:28:01,348 | INFO | MODIFIED -> .\monitor.py
+2025-12-30 16:28:01,349 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 15:35:58,551 | WARNING | ALERT: Sensitive file CREATED -> .\sensitive\testSensitive
+2026-01-21 15:36:38,365 | WARNING | INTEGRITY ALERT: File modified -> .\sensitive\testSensitive.txt | OLD HASH: 33dbd6b61d21c74a39ddee0bb7ad68fab7628a039faa726e0783296ff3404908 | NEW HASH: aca5daa247cabcecc74702f675fc25a14154a986310f0c00f1722eb273b1a8e0
+2026-01-21 15:44:33,667 | WARNING | ALERT: Sensitive file DELETED -> .\sensitive\hello copy 2.txt
+2026-01-21 17:01:36,076 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:01:36,079 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:06:24,337 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:06:24,339 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:06:29,589 | INFO | MODIFIED -> .\normal\test.txt
+2026-01-21 17:06:31,376 | INFO | MODIFIED -> .\normal\normal.txt
+2026-01-21 17:08:01,735 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:08:01,736 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:08:02,419 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:11:04,104 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:11:04,105 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:11:18,273 | INFO | MODIFIED -> .\Secure File Transfer Monitoring.docx
+2026-01-21 17:11:18,325 | INFO | DELETED -> .\~$cure File Transfer Monitoring.docx
+2026-01-21 17:11:48,020 | INFO | MODIFIED -> .\monitor.py
+2026-01-21 17:11:48,021 | INFO | MODIFIED -> .\monitor.py
