@@ -156,7 +156,7 @@ SUSPICIOUS MOVEMENT: 10 files changed within 60 seconds
 ## 📁 Project Structure
 
 ```
-secure-file-monitor/
+Secure-File-Transfer-Monitoring-System/
 │── monitor.py
 │── requirements.txt
 │── logs/
