@@ -233,7 +233,7 @@ This project demonstrates how file monitoring systems enhance security by detect
 
 ## 👩‍💻 Author
 
-**Vaishali Vasant Kadam**
+**Vaishali Kadam**
 
 
 ---
