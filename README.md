@@ -54,7 +54,7 @@ Python 3.14 (Recommended: Python 3.8 or above)
 git clone https://github.com/kadamvaishali378/Secure-File-Transfer-Monitoring-System.git
 
 # Navigate to project
-cd secure-file-monitor
+cd Secure-File-Transfer-Monitoring-System
 
 # Install dependencies
 pip install -r requirements.txt
