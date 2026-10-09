@@ -2,7 +2,7 @@
 
 ### Real-Time File Activity Monitoring & Integrity Verification Tool
 
-🔗 **Project Repository:** https://github.com/your-username/secure-file-monitor
+🔗 **Project Repository:** https://github.com/kadamvaishali378/Secure-File-Transfer-Monitoring-System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Security](https://img.shields.io/badge/Domain-Cybersecurity-red)
@@ -234,8 +234,6 @@ This project demonstrates how file monitoring systems enhance security by detect
 ## 👩‍💻 Author
 
 **Vaishali Vasant Kadam**
-Cyber Security Internship Project
-Unified Mentor
 
 
 ---
