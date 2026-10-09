@@ -4,7 +4,7 @@
 
 🔗 **Project Repository:** https://github.com/kadamvaishali378/Secure-File-Transfer-Monitoring-System
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 ![Security](https://img.shields.io/badge/Domain-Cybersecurity-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
@@ -43,7 +43,7 @@ It tracks operations such as file creation, modification, deletion, and movement
 
 ## 🐍 Python Version
 
-Python 3.x (Recommended: Python 3.8 or above)
+Python 3.14 (Recommended: Python 3.8 or above)
 
 ---
 
