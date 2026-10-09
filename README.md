@@ -51,7 +51,7 @@ Python 3.14 (Recommended: Python 3.8 or above)
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/secure-file-monitor.git
+git clone https://github.com/kadamvaishali378/Secure-File-Transfer-Monitoring-System.git
 
 # Navigate to project
 cd secure-file-monitor
